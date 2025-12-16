@@ -2,7 +2,7 @@
 
 - 🍎 I enjoy making games and web dev
 
-- 🔭 I’m currently working on my **Graduation project** and my **Personal portifolio**
+- 🔭 I’m currently working on my **Personal portifolio**
 
 - 💬 You can ask me about **C#, Unity, HTML, CSS and JS**
 
