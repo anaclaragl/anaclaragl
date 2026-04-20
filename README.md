@@ -1,4 +1,5 @@
 <h3 align="center">Hi! Nice to meet you! 🦈</h3>
+Software Engineer Student | Bachelor's Degree in Game Development | Technical Degree in Computing
 
 - 🍎 I enjoy making games and web dev
 
