@@ -1,7 +1,9 @@
 <h3 align="center">Hi! Nice to meet you! 🦈</h3>
-Software Engineer Student | Bachelor's Degree in Game Development | Technical Degree in Computing
+Software Engineer @Minasul | Software Engineer Student | Bachelor's Degree in Game Development | Technical Degree in Computing
 
-- 🍎 I enjoy making games and fullstack applications
+- 🍎 I enjoy making fullstack applications and games
+
+- 🤖 Exploring AI integrations and studying modern software architecture
 
 - 📫 How to reach me **ag.linhares2@gmail.com**
 
