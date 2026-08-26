@@ -7,10 +7,6 @@ Software Engineer Student | Bachelor's Degree in Game Development | Technical De
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,cpp,py,js,ts,html,css,react,vue,postgres,nodejs,unity&perline=7" alt="My Skills" />
-</p>
-
 **Technologies & Databases:** 
 `C#` `C++` `JavaScript` `TypeScript` `HTML5` `CSS3` `SQL` `PostgreSQL` `X++` `Python` `Java`
 
